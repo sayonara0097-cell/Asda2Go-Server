@@ -1,0 +1,21 @@
+{
+  "mapId": 18,
+  "groups": [
+    {
+      "id": "map_018_npc_200_ch_all",
+      "npcId": 200,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 200,
+          "npcId": 200,
+          "x": 1,
+          "y": 1,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    }
+  ]
+}

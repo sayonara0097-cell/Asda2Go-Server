@@ -1,0 +1,37 @@
+{
+  "mapId": 22,
+  "groups": [
+    {
+      "id": "map_022_npc_38_ch_all",
+      "npcId": 38,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 38,
+          "npcId": 38,
+          "x": 270,
+          "y": 228,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_022_npc_39_ch_all",
+      "npcId": 39,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 39,
+          "npcId": 39,
+          "x": 241,
+          "y": 228,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    }
+  ]
+}

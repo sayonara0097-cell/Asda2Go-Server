@@ -1,0 +1,165 @@
+{
+  "mapId": 16,
+  "groups": [
+    {
+      "id": "map_016_npc_198_ch_all",
+      "npcId": 198,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 198,
+          "npcId": 198,
+          "x": 59,
+          "y": 68,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_199_ch_all",
+      "npcId": 199,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 199,
+          "npcId": 199,
+          "x": 62,
+          "y": 70,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_201_ch_all",
+      "npcId": 201,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 201,
+          "npcId": 201,
+          "x": 73,
+          "y": 70,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_286_ch_all",
+      "npcId": 286,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 286,
+          "npcId": 286,
+          "x": 419,
+          "y": 424,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_287_ch_all",
+      "npcId": 287,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 287,
+          "npcId": 287,
+          "x": 376,
+          "y": 456,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_288_ch_all",
+      "npcId": 288,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 288,
+          "npcId": 288,
+          "x": 397,
+          "y": 433,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_289_ch_all",
+      "npcId": 289,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 289,
+          "npcId": 289,
+          "x": 397,
+          "y": 440,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_290_ch_all",
+      "npcId": 290,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 290,
+          "npcId": 290,
+          "x": 388,
+          "y": 430,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_291_ch_all",
+      "npcId": 291,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 291,
+          "npcId": 291,
+          "x": 454,
+          "y": 115,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_016_npc_292_ch_all",
+      "npcId": 292,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 292,
+          "npcId": 292,
+          "x": 375,
+          "y": 150,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    }
+  ]
+}

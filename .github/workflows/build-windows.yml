@@ -1,0 +1,47 @@
+name: Build Windows Binaries
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+          cache: true
+
+      - name: Test
+        shell: pwsh
+        run: go test ./...
+
+      - name: Vet
+        shell: pwsh
+        run: go vet ./...
+
+      - name: Build executables
+        shell: pwsh
+        run: ./scripts/build-windows.ps1
+
+      - name: Upload executables
+        uses: actions/upload-artifact@v4
+        with:
+          name: asda2-windows-bin
+          path: bin/*.exe
+          if-no-files-found: error
+          retention-days: 30

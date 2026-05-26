@@ -1,0 +1,117 @@
+{
+  "mapId": 19,
+  "groups": [
+    {
+      "id": "map_019_npc_188_ch_all",
+      "npcId": 188,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 188,
+          "npcId": 188,
+          "x": 258,
+          "y": 165,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_019_npc_189_ch_all",
+      "npcId": 189,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 189,
+          "npcId": 189,
+          "x": 211,
+          "y": 218,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_019_npc_190_ch_all",
+      "npcId": 190,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 190,
+          "npcId": 190,
+          "x": 308,
+          "y": 221,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_019_npc_191_ch_all",
+      "npcId": 191,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 191,
+          "npcId": 191,
+          "x": 260,
+          "y": 250,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_019_npc_192_ch_all",
+      "npcId": 192,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 192,
+          "npcId": 192,
+          "x": 209,
+          "y": 284,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_019_npc_193_ch_all",
+      "npcId": 193,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 193,
+          "npcId": 193,
+          "x": 307,
+          "y": 285,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_019_npc_194_ch_all",
+      "npcId": 194,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 194,
+          "npcId": 194,
+          "x": 258,
+          "y": 340,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "mapId": 9,
+  "groups": [
+    {
+      "id": "map_009_npc_152_ch_all",
+      "npcId": 152,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 152,
+          "npcId": 152,
+          "x": 473,
+          "y": 413,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_009_npc_153_ch_all",
+      "npcId": 153,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 153,
+          "npcId": 153,
+          "x": 445,
+          "y": 72,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_009_npc_154_ch_all",
+      "npcId": 154,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 154,
+          "npcId": 154,
+          "x": 56,
+          "y": 295,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_009_npc_155_ch_all",
+      "npcId": 155,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 155,
+          "npcId": 155,
+          "x": 188,
+          "y": 385,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_009_npc_157_ch_all",
+      "npcId": 157,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 157,
+          "npcId": 157,
+          "x": 71,
+          "y": 476,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_009_npc_158_ch_all",
+      "npcId": 158,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 158,
+          "npcId": 158,
+          "x": 372,
+          "y": 487,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    },
+    {
+      "id": "map_009_npc_159_ch_all",
+      "npcId": 159,
+      "channel": -1,
+      "spawnPoints": [
+        {
+          "spawnId": 159,
+          "npcId": 159,
+          "x": 441,
+          "y": 54,
+          "state": 1,
+          "phaseMask": 1,
+          "respawnSeconds": 1
+        }
+      ]
+    }
+  ]
+}

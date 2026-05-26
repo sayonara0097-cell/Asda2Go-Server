@@ -1,0 +1,2018 @@
+[
+  {
+    "id": 1,
+    "name": "[Sowel Shop] Lua",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "name": "Bulletin Board",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "name": "[General Shop] Ian",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "name": "[General Shop] John",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "name": "[Sowel Shop] Viana",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 6,
+    "name": "Bulletin Board",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 7,
+    "name": "[Fishing Shop] Annice",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 8,
+    "name": "[General Shop] Elijah",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 9,
+    "name": "Bulletin Board",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 10,
+    "name": "Bulletin Board",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 11,
+    "name": "Bulletin Board",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 12,
+    "name": "[Warrior Trainer] Gladio",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 13,
+    "name": "[Archer Trainer] Wendy",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 14,
+    "name": "[Mage Trainer] Fhashu",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 15,
+    "name": "Charlotte",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 16,
+    "name": "Merchant Horil",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 17,
+    "name": "[Warehouse] Raptor",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 18,
+    "name": "[Warrior Trainer] Joel",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 19,
+    "name": "[Archer Trainer] Kurian",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 20,
+    "name": "[Mage Trainer] Chmella",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 21,
+    "name": "The Beast`s Shelter",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 22,
+    "name": "Warrior Helmeroth`s Statue",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 23,
+    "name": "Agnis`s Haven",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 24,
+    "name": "[Indicator] Woody",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 25,
+    "name": "Robby",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 26,
+    "name": "Melve",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 27,
+    "name": "Morgan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 28,
+    "name": "Gilbert",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 29,
+    "name": "Albert",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 30,
+    "name": "Morris",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 31,
+    "name": "Corin",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 32,
+    "name": "Britz",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 33,
+    "name": "Trimi",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 34,
+    "name": "Diju",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 35,
+    "name": "Ukan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 36,
+    "name": "Vassa",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 37,
+    "name": "[Fishing Shop] Arshes",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 38,
+    "name": "O Field NPC",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 39,
+    "name": "X Field NPC",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 40,
+    "name": "Soul Reader Cave",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 41,
+    "name": "Obelisk of the Sphinx",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 42,
+    "name": "[Warehouse] Zebian",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 43,
+    "name": "[Blacksmith] Alford",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 44,
+    "name": "Demi",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 45,
+    "name": "[Blacksmith] Tid",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 46,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 47,
+    "name": "[Warehouse] Clark",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 48,
+    "name": "[Warehouse] Rachel",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 49,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 50,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 51,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 52,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 53,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 54,
+    "name": "Historian Radmil",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 55,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 56,
+    "name": "Ellosa",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 57,
+    "name": "Grim Ripper`s Tombstone",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 58,
+    "name": "Melia",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 59,
+    "name": "Tombstone Of Creation",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 60,
+    "name": "Monk`s Tombstone",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 61,
+    "name": "Tombstone Of Hero",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 62,
+    "name": "A Martyr`s Tombstone",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 63,
+    "name": "Rehabilitation Tombstone",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 64,
+    "name": "Grave Of the Prideless",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 65,
+    "name": "Grave Of the Worthless",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 66,
+    "name": "Machine-Tree",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 67,
+    "name": "Ancient-Tree",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 68,
+    "name": "Small Sowel Colony",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 69,
+    "name": "Huge Sowel Chunk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 70,
+    "name": "Small Sowel Colony",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 71,
+    "name": "Heretic`s Tombstone",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 72,
+    "name": "Convict`s Tombstone",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 73,
+    "name": "Victim`s Tombstone",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 74,
+    "name": "Worker Makina",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 75,
+    "name": "Ludivine",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 76,
+    "name": "Lord",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 77,
+    "name": "Gloom the Convict",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 78,
+    "name": "Frenzy the Victim",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 79,
+    "name": "Roton the Heretic",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 80,
+    "name": "Mosren",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 81,
+    "name": "Broken Sowel Collector",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 82,
+    "name": "Trace of Ancient Times",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 83,
+    "name": "Trace of Ancient Times",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 84,
+    "name": "Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 85,
+    "name": "Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 86,
+    "name": "Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 87,
+    "name": "Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 88,
+    "name": "Statue of Letto",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 89,
+    "name": "Statue of Rein",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 90,
+    "name": "Saurus",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 91,
+    "name": "[Gear Shop] Shuren",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 92,
+    "name": "[Gear Shop] Yazark",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 93,
+    "name": "Engine Panel CS-1K",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 94,
+    "name": "Engine Panel CS-2K",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 95,
+    "name": "Engine Panel CS-3K",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 96,
+    "name": "Saw-Toothed Wheel",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 97,
+    "name": "Statue of Sophia",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 98,
+    "name": "Magic Mirror",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 99,
+    "name": "Celestial Mirror",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 100,
+    "name": "[Trade Market] Ashley",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 101,
+    "name": "[Indicator] Eco",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 102,
+    "name": "Parasol Researcher",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 103,
+    "name": "Touran",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 104,
+    "name": "[Merchant] Ben",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 105,
+    "name": "Elis",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 106,
+    "name": "Soul Statue",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 107,
+    "name": "[Guild Officer] Captain Ella",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 108,
+    "name": "Grave of a Brave Warrior",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 109,
+    "name": "Street Car",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 110,
+    "name": "Condensed Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 111,
+    "name": "Glowing Red Tree",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 112,
+    "name": "Dark Mosren",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 113,
+    "name": "Dark Sowel Colony",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 114,
+    "name": "Coward Mottlegg",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 115,
+    "name": "Skull Warning Sign",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 116,
+    "name": "Statue of the Sun",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 117,
+    "name": "Forest Guardian Gnosia",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 118,
+    "name": "Well \u0026 Bucket",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 119,
+    "name": "Lighthouse Keeper Hans",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 120,
+    "name": "Survivor Matthew",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 121,
+    "name": "Survivor Jane",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 122,
+    "name": "Relief Supplies",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 123,
+    "name": "Used Boat",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 124,
+    "name": "Hunter Rodel",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 125,
+    "name": "Hunter Aden",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 126,
+    "name": "Patrol Chief Watson",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 127,
+    "name": "Patrol Amellin",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 128,
+    "name": "Patrol Edison",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 129,
+    "name": "Shipwreck Cargo",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 130,
+    "name": "Windmill Keeper Nelia",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 131,
+    "name": "[Fashionista] BumiBumi",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 132,
+    "name": "[Stylist] Yuki",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 133,
+    "name": "[Battle Officer] Chief Retos",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 134,
+    "name": "[Sowel Shop] Iris",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 135,
+    "name": "[Warehouse] Frenet",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 136,
+    "name": "[Blacksmith] Atres",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 137,
+    "name": "Knight Neimi",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 138,
+    "name": "[Indicator] Hares",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 139,
+    "name": "[General Shop] Phailan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 140,
+    "name": "[Gear Shop] Patton",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 141,
+    "name": "[Trade Market] ShaSha",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 142,
+    "name": "Carf",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 143,
+    "name": "Demican",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 144,
+    "name": "Kaios",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 145,
+    "name": "Flight",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 146,
+    "name": "PrePre-v19",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 147,
+    "name": "Mosto",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 148,
+    "name": "Sign",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 149,
+    "name": "Well of Life",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 150,
+    "name": "Pillar of Fire",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 151,
+    "name": "Queen`s Dressing Table",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 152,
+    "name": "Treasure Box",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 153,
+    "name": "Treasure Box",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 154,
+    "name": "Treasure Box",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 155,
+    "name": "Treasure Box",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 156,
+    "name": "Treasure Box",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 157,
+    "name": "Advian",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 158,
+    "name": "Meio",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 159,
+    "name": "Kind Chess Man",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 160,
+    "name": "Ruined Historical Site",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 161,
+    "name": "Ruined Historical Site",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 162,
+    "name": "Ruined Historical Site",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 163,
+    "name": "[Event Corp.] LaLa",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 164,
+    "name": "Ruined Historical Site",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 165,
+    "name": "Ruined Historical Site",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 166,
+    "name": "Ruined Historical Site",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 167,
+    "name": "Sowel Colony",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 168,
+    "name": "Sowel Colony",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 169,
+    "name": "Sowel Colony",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 170,
+    "name": "Mysterious Scholar",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 171,
+    "name": "Apprentice Ron",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 172,
+    "name": "Apprentice Carlson",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 173,
+    "name": "Hunter Evenstrider",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 174,
+    "name": "Broker Dyllan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 175,
+    "name": "Dispatched Broker",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 176,
+    "name": "Maniac Lorderwork`s Box",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 177,
+    "name": "Hunter Manny",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 178,
+    "name": "Evarr",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 179,
+    "name": "[Battle Officer] Captain Scud",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 180,
+    "name": "[Battle Officer] Knight Clasis",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 181,
+    "name": "Instructor Neimi",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 182,
+    "name": "Miracle",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 183,
+    "name": "[Event Corp.] NaNa",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 184,
+    "name": "[Event Corp.] ZaZa",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 185,
+    "name": "[Pet Shop] Molly",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 186,
+    "name": "[Pet Shop] Dolly",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 187,
+    "name": "Tower of Sealing",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 188,
+    "name": "Base 1",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 189,
+    "name": "Base 2",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 190,
+    "name": "Base 3",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 191,
+    "name": "Base 4",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 192,
+    "name": "Base 5",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 193,
+    "name": "Base 6",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 194,
+    "name": "Base 7",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 195,
+    "name": "Base 8",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 196,
+    "name": "Base 9",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 197,
+    "name": "Base 10",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 198,
+    "name": "Mercenary Mikamion",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 199,
+    "name": "Mercenary Karas",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 200,
+    "name": "Statue",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 201,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 202,
+    "name": "Guard of Light",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 203,
+    "name": "Guard of Dark",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 204,
+    "name": "Guard of Chaos",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 205,
+    "name": "[Upgrade Shop] Gil",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 206,
+    "name": "[Upgrade Shop] Rich",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 207,
+    "name": "[Upgrade Shop] Min",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 208,
+    "name": "[Craft Shop] Oz",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 209,
+    "name": "[Craft Shop] Dos",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 210,
+    "name": "[Craft Shop] Kas",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 211,
+    "name": "[Mail Manager] Jessy",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 212,
+    "name": "[Mail Manager] Missy",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 213,
+    "name": "[Mail Manager] Cassy",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 214,
+    "name": "Hwanong",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 215,
+    "name": "Guard Chief Saurus",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 216,
+    "name": "Torkan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 217,
+    "name": "Aslan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 218,
+    "name": "[Trainer] Captain Scud",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 219,
+    "name": "Morris",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 220,
+    "name": "Dudley",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 221,
+    "name": "Corin",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 222,
+    "name": "Harfman",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 223,
+    "name": "Zidane",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 224,
+    "name": "[Merchant] Ben",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 225,
+    "name": "Touran",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 226,
+    "name": "Hunter Aden",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 227,
+    "name": "Nathan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 228,
+    "name": "Hidden Crystal Colony",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 229,
+    "name": "Mercenary Leader Cain",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 230,
+    "name": "Koral",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 231,
+    "name": "[Gear Shop] Horil",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 232,
+    "name": "Village Chief Gruverin",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 233,
+    "name": "[Sowel Shop] Lithia",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 234,
+    "name": "[Archer Trainer] Charlotte",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 235,
+    "name": "[General Shop] Serena",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 236,
+    "name": "[Blacksmith] Einlight",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 237,
+    "name": "Tiliana",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 238,
+    "name": "[Indicator] Ethisha",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 239,
+    "name": "[Mage Trainer] Seiren",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 240,
+    "name": "DenDen",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 241,
+    "name": "Arkasha",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 242,
+    "name": "Deamer",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 243,
+    "name": "Sein",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 244,
+    "name": "Allen",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 245,
+    "name": "BamBam",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 246,
+    "name": "[Warrior Trainer] Shane",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 247,
+    "name": "Garrant",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 248,
+    "name": "Wife`s Grave",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 249,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 250,
+    "name": "[Mail Manager] Nessy",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 251,
+    "name": "[Event Corp.] Summer",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 252,
+    "name": "[Event Corp.] Summer",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 253,
+    "name": "[Event Corp.] Summer",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 254,
+    "name": "[Merchant] Horal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 255,
+    "name": "Loria",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 256,
+    "name": "Norma",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 257,
+    "name": "Bronze Statue",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 258,
+    "name": "[Warehouse] Yasman",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 259,
+    "name": "Bulletin Board",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 260,
+    "name": "Mysterious Box",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 261,
+    "name": "Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 262,
+    "name": "Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 263,
+    "name": "Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 264,
+    "name": "Obelisk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 265,
+    "name": "[General Shop] Carlson",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 266,
+    "name": "[Warehouse] Zebian",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 267,
+    "name": "[Trade Market] NuNu",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 268,
+    "name": "Sowel Chunk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 269,
+    "name": "Kouch",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 270,
+    "name": "KahKah",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 271,
+    "name": "Elan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 272,
+    "name": "[Craft Shop] Nihl",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 273,
+    "name": "[Fishing Shop] Arine",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 274,
+    "name": "[Fishing Shop] Alane",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 275,
+    "name": "AngAng",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 276,
+    "name": "Nonin",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 277,
+    "name": "Black Hole",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 278,
+    "name": "[Merchant] Kirk",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 279,
+    "name": "[Merchant] Naih",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 280,
+    "name": "Guard Chief Lanos",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 281,
+    "name": "[Pet Shop] Molly",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 282,
+    "name": "[Pet Shop] Dolly",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 283,
+    "name": "[Pet Shop] Polly",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 284,
+    "name": "[Pet Shop] Holly",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 285,
+    "name": "Bulletin Board",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 286,
+    "name": "Mercenary Karas",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 287,
+    "name": "Kai",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 288,
+    "name": "Ros",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 289,
+    "name": "Azka",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 290,
+    "name": "Kansar",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 291,
+    "name": "Arte",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 292,
+    "name": "Kogan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 293,
+    "name": "Rye",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 294,
+    "name": "Hairo",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 295,
+    "name": "Keith",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 296,
+    "name": "Yorkhan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 297,
+    "name": "Zidane",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 298,
+    "name": "Zidane",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 299,
+    "name": "Zidane",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 300,
+    "name": "Zidane",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 301,
+    "name": "[Border Guard] Lulikan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 302,
+    "name": "[Border Guard] Raroosae",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 303,
+    "name": "[Border Guard] Loito",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 304,
+    "name": "[Job Trainer] Vipe",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 305,
+    "name": "[Border Guard] Grakan",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 306,
+    "name": "[Job Trainer] Gerimen",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 307,
+    "name": "[Border Guard] Ruladin",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 308,
+    "name": "[Job Trainer] Maltani",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 309,
+    "name": "[Border Guard Chief] Salgasudo",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 310,
+    "name": "[Border Guard] Riamen",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 311,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 312,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 313,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 314,
+    "name": "Bein",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 315,
+    "name": "Vyseris",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 316,
+    "name": "Rita",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 317,
+    "name": "Carla",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 318,
+    "name": "Effie",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 319,
+    "name": "Amelia",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 320,
+    "name": "Chiffon",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 321,
+    "name": "Bangle",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 322,
+    "name": "Dote",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 323,
+    "name": "Phila",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 324,
+    "name": "Aelia",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 325,
+    "name": "Jaera",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 326,
+    "name": "Navery",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 327,
+    "name": "Rica",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 328,
+    "name": "Peplin",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 329,
+    "name": "Victoria",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 330,
+    "name": "Torche",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 331,
+    "name": "Powell",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 332,
+    "name": "Personus",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 333,
+    "name": "Alena",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 334,
+    "name": "Statue of Summoning",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 335,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  },
+  {
+    "id": 337,
+    "name": "Teleport Crystal",
+    "kind": 8,
+    "enabled": true
+  }
+]
