@@ -1,0 +1,18 @@
+# Build output
+/bin/
+*.exe
+
+# Runtime output
+/logs/
+/tmp_server_probe/
+*.log
+*.out.log
+*.err.log
+
+# Editor and local machine files
+/.vs/
+/.vscode/
+
+# Go scratch output
+*.test
+coverage.out
